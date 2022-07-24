@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253306975189",
+    "project_id": "login-page-ce645",
+    "storage_bucket": "login-page-ce645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253306975189:android:6abb6104e641d5a0d9435c",
+        "android_client_info": {
+          "package_name": "com.example.loginuiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253306975189-609i6q9svso1f1icr74gp6a10f7341fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbAz7_t07oROu4Zblb3shapkkDkCk6pPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253306975189-609i6q9svso1f1icr74gp6a10f7341fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
