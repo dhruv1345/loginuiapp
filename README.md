@@ -1,6 +1,6 @@
 # loginuiapp
 
-A new Flutter project.
+A new Flutter project.This is a Ui of Login page with firebase set up.
 
 ## Getting Started
 
